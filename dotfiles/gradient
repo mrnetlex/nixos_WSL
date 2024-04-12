@@ -1,0 +1,72 @@
+{
+    "Effects": [
+        {
+            "AllowOnlyFirst": false,
+            "AutoStart": true,
+            "Brightness": 100,
+            "ControllerZones": [
+                {
+                    "description": "ASUS Aura USB Device",
+                    "is_segment": false,
+                    "location": "HID: /dev/hidraw2",
+                    "name": "ASUS PRIME B560M-A",
+                    "reverse": false,
+                    "segment_idx": -1,
+                    "self_brightness": 100,
+                    "serial": "9876543210",
+                    "vendor": "ASUS",
+                    "version": "AULA3-AR32-0207",
+                    "zone_idx": 0
+                },
+                {
+                    "description": "ASUS Aura USB Device",
+                    "is_segment": false,
+                    "location": "HID: /dev/hidraw2",
+                    "name": "ASUS PRIME B560M-A",
+                    "reverse": false,
+                    "segment_idx": -1,
+                    "self_brightness": 100,
+                    "serial": "9876543210",
+                    "vendor": "ASUS",
+                    "version": "AULA3-AR32-0207",
+                    "zone_idx": 1
+                },
+                {
+                    "description": "ASUS Aura USB Device",
+                    "is_segment": false,
+                    "location": "HID: /dev/hidraw2",
+                    "name": "ASUS PRIME B560M-A",
+                    "reverse": false,
+                    "segment_idx": -1,
+                    "self_brightness": 100,
+                    "serial": "9876543210",
+                    "vendor": "ASUS",
+                    "version": "AULA3-AR32-0207",
+                    "zone_idx": 2
+                }
+            ],
+            "CustomName": "",
+            "CustomSettings": {
+                "colors": [
+                    8323072,
+                    16711680,
+                    16776960,
+                    16755200,
+                    8323072
+                ],
+                "direction": 0,
+                "height": 50,
+                "spread": 100,
+                "width": 50
+            },
+            "EffectClassName": "CustomGradientWave",
+            "FPS": 60,
+            "RandomColors": false,
+            "Slider2Val": 1,
+            "Speed": 10,
+            "Temperature": 0,
+            "Tint": 0
+        }
+    ],
+    "version": 2
+}
