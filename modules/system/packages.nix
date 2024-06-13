@@ -44,7 +44,7 @@
     peaclock
     tomato-c
     sl
-    trash-put
+    trash-cli
     ripgrep
     fd
     du-dust
