@@ -32,7 +32,7 @@
     grc
     gdu
     delta
-	pingu
+	gping
     speedtest-rs
     cfspeedtest
     bandwhich

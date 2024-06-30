@@ -39,7 +39,7 @@
       
 
       # Funny aliases
-      ping = "pingu";
+      ping = "gping";
       tree = "erd";
 
       #micro = "nvim";
